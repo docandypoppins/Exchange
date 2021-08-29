@@ -1,4 +1,6 @@
-# CandyPoppins Swap Exchange
+#  ![image](https://user-images.githubusercontent.com/89436792/131241336-9ed15886-5e85-4729-8540-3d7e3508c3e8.png) CandyPoppins Swap Exchange
+
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c6ef7e73-4a84-410d-83b0-b89326787dff/deploy-status)](https://app.netlify.com/sites/swap-master/deploys)
 
